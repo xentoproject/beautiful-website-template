@@ -1,3 +1,5 @@
+//navbar scroll styles
+
 window.onscroll = function() {navScroll()};
 
 function navScroll() {
@@ -6,4 +8,13 @@ function navScroll() {
   } else {
     document.getElementByClassName("navbar").style.backgroundFilter = "none";
   }
+}
+
+//open mobile nav
+
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
 }
