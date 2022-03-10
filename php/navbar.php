@@ -1,5 +1,5 @@
 <div class="justify-content-center d-none d-sm-none d-md-block d-lg-block d-xl-block noSidePadding">
-    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-nav justify-content-center d-none d-sm-none d-md-block d-lg-block d-xl-block nav-padding align-items-center" style="<?php if (basename($_SERVER["SCRIPT_FILENAME"], '.php')!= 'index') {echo 'background-color: transparent !important;';}?>">
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-nav justify-content-center d-none d-sm-none d-md-block d-lg-block d-xl-block nav-padding align-items-center" style="<?php if (basename($_SERVER["SCRIPT_FILENAME"], '.php')!= 'index') {echo 'background-color: #1f2439 !important;';}?>">
         <div class="container align-items-center">
             <a class="navbar-brand" href="../">
                 <img class="logosvg" src="./asset/unconfirmed/xentowordmark.svg" alt="Xento" height="75px"/>
