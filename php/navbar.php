@@ -29,19 +29,11 @@
 <div class="noSidePadding d-block d-sm-block d-md-none d-lg-none d-xl-none">
     <nav class="navbar navbar-expand-sm bg-nav fixed-top navbar-light nav-padding">
         <a class="navbar-brand" href="../">
-            <img src="./asset/id/xentowordmark.svg" alt="Xento" width="125px"/>
+            <img src="./asset/id/xentowordmark.svg" alt="Xento" height="50px"/>
         </a>
         <button class="navbar-toggle justify-self-end" type="button" onclick="openNav()">
             &#9776;
         </button>
-        <script>
-            function openNav() {
-                document.getElementById("myNav").style.width = "100%";
-            }
-            function closeNav() {
-                document.getElementById("myNav").style.width = "0%";
-            }
-        </script>
         <div id="myNav" class="overlay">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <div class="overlay-content text-center">
