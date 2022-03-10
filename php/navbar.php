@@ -27,7 +27,7 @@
 </div>
 
 <div class="noSidePadding d-block d-sm-block d-md-none d-lg-none d-xl-none">
-    <nav class="navbar navbar-expand-sm bg-nav navbar-light nav-padding">
+    <nav class="navbar navbar-expand-sm bg-nav fixed-top navbar-light nav-padding">
         <a class="navbar-brand" href="../">
             <img src="./asset/id/xentowordmark.svg" alt="Xento" width="125px"/>
         </a>
