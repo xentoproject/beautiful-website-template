@@ -7,19 +7,19 @@
             </a>
             <ul class="navbar-nav d-flex justify-content-end logo-nav">
             <li class="nav-item">
-                <a class="nav-link active" href="../">-</a>
+                <a class="nav-link" href="../">Link</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="../about">-</a>
+                <a class="nav-link" href="../about">Link</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="../portfolio">-</a>
+                <a class="nav-link" href="../portfolio">Link</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="../services">-</a>
+                <a class="nav-link" href="../services">Link</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="../contact">-</a>
+                <a class="nav-link" href="../contact">Link</a>
             </li>
             </ul>
         </div>
@@ -29,7 +29,7 @@
 <div class="noSidePadding d-block d-sm-block d-md-none d-lg-none d-xl-none">
     <nav class="navbar navbar-expand-sm bg-nav navbar-light nav-padding">
         <a class="navbar-brand" href="../">
-            <img src="../asset/id/logo-light.png" alt="MJD WS" width="125px"/>
+            <img src="../asset/id/xentowordmark.svg" alt="Xento" width="125px"/>
         </a>
         <button class="navbar-toggle justify-self-end" type="button" onclick="openNav()">
             &#9776;
