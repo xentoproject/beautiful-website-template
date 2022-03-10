@@ -42,4 +42,7 @@
 
     <body>
 
+        <!-- navbar -->
+        <?php include ('./php/navbar.php');?>
+
     </body>
