@@ -21,7 +21,7 @@
     font-family: proxima-nova,sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #c5c5c5 !important;
+    color: #c5c5c5;
     text-transform: uppercase;
     margin: 0em 0.5em;
 }
@@ -33,7 +33,7 @@
     text-transform: uppercase;
 }
 .navbar{
-    padding: 0.75rem 1rem !important;
+    padding: 1.25rem 1rem !important;
 }
 .navbar-toggle{
     border-width: 0;
@@ -92,6 +92,14 @@
 }
 
 /* Content */
+
+    /*Home Main*/
+.home-header{
+    min-height: 75vh;
+    background: rgb(31,36,57);
+    background: linear-gradient(180deg, rgba(31,36,57,1) 0%, rgba(38,51,63,1) 24%, rgba(47,71,72,1) 37%, rgba(52,83,77,1) 42%, rgba(61,104,86,1) 52%, rgba(126,253,149,1) 100%);
+    border-radius: 0 0 500%/600px 600px;
+}
 
 .logosvg{
     fill: #fff;
