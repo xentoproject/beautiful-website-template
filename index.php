@@ -49,7 +49,7 @@
                 <div class="row header-content my-auto d-flex">
                     <div class="my-auto">
                         <h1 class="header-text">Learn to Code with</h1>
-                        <img class="header-image" width="275px" src="./asset/id/xentowordmark.svg">
+                        <img class="header-image" src="./asset/id/xentowordmark.svg">
                         <h1 class="header-text"></h1>
                     </div>
                 </div>
