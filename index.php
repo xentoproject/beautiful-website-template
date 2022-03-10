@@ -41,11 +41,9 @@
     </head>
 
     <body>
-
-        <!-- navbar -->
-        <?php include ('./php/navbar.php');?>
-
         <div class="container-fluid home-header">
-
+            <!-- navbar -->
+            <?php include ('./php/navbar.php');?>
+            <!-- Main -->
         </div>
     </body>
