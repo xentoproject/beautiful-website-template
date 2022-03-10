@@ -100,6 +100,17 @@
     background: linear-gradient(180deg, rgba(31,36,57,1) 0%, rgba(38,51,63,1) 24%, rgba(47,71,72,1) 37%, rgba(52,83,77,1) 42%, rgba(61,104,86,1) 52%, rgba(126,253,149,1) 100%);
     border-radius: 0 0 500%/600px 600px;
 }
+.header-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-text{
+    color: #fff;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 600;
+    font-style: normal; 
+}
 
 .logosvg{
     fill: #fff;
