@@ -15,7 +15,7 @@
         <script SameSite="None Secure" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" type="text/css" href="./css/style.css" />
 
         <!-- Favicons -->
         <link rel="apple-touch-icon" sizes="180x180" SameSite="Strict" href="./asset/favicon/apple-touch-icon.png">
