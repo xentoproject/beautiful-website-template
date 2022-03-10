@@ -41,9 +41,18 @@
     </head>
 
     <body>
-        <div class="container-fluid home-header">
-            <!-- navbar -->
-            <?php include ('./php/navbar.php');?>
+        <!-- navbar -->
+        <?php include ('./php/navbar.php');?>
+        <div class="container-fluid home-header align-items-center d-flex">
             <!-- Main -->
+            <div class="container-fluid text-center align-items-center">
+                <div class="row header-content my-auto d-flex">
+                    <div class="my-auto">
+                        <h1 class="header-text">Learn to Code with</h1>
+                        <img class="header-image" width="275px" src="./asset/id/xentowordmark.svg">
+                        <h1 class="header-text"></h1>
+                    </div>
+                </div>
+            </div>
         </div>
     </body>
