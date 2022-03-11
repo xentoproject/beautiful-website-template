@@ -48,9 +48,8 @@
             <div class="container-fluid text-center align-items-center">
                 <div class="row header-content my-auto d-flex">
                     <div class="my-auto">
-                        <h1 class="header-text">Learn to Code with</h1>
                             <img class="header-image" src="./asset/id/xentowordmark.png">
-                        <h1 class="header-text"></h1>
+                        <h1 class="header-text">Learn to Code...</h1>
                     </div>
                 </div>
             </div>
