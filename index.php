@@ -41,7 +41,7 @@
     </head>
 
     <body>
-        <!-- navbar -->
+        <!-- navbar and header -->
         <?php include ('./php/navbar.php');?>
         <div class="container-fluid home-header align-items-center d-flex">
             <!-- Main -->
@@ -53,6 +53,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <!-- main content -->
+        <div class="container-fluid main-content">
+
         </div>
 
         <!-- JS -->
