@@ -113,6 +113,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     clip-path: ellipse(175% 100% at 50% 0%);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden; 
 }
 @media (max-width: 567px){
     .home-header{
@@ -131,7 +133,7 @@ body{
     font-weight: 600;
     font-style: normal;
     font-size: 1.75em; 
-    padding-bottom: 0.5em !important;
+    padding-top: 0.5em !important;
 }
 .header-image{
     width: 350px !important;
