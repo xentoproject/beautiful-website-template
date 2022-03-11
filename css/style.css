@@ -148,3 +148,7 @@ body{
         max-width: 200px;
     }
 }
+/*Main Page Content*/
+.main-content{
+    margin-top: 10vh;
+}
