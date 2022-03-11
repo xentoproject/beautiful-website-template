@@ -7,7 +7,7 @@
             </a>
             <ul class="navbar-nav d-flex justify-content-end logo-nav">
             <li class="nav-item">
-                <a class="nav-link" href="../">Link</a>
+                <a class="nav-link" href="../">HOME</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="../about">Link</a>
@@ -37,7 +37,7 @@
         <div id="myNav" class="overlay">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <div class="overlay-content text-center">
-                <a href="../">Link</a>
+                <a href="../">HOME</a>
                 <a href="./about">Link</a>
                 <a href="./portfolio">Link</a>
                 <a href="./services">Link</a>
