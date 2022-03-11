@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-nav justify-content-center d-none d-sm-none d-md-block d-lg-block d-xl-block nav-padding align-items-center" style="<?php if (basename($_SERVER["SCRIPT_FILENAME"], '.php')!= 'index') {echo 'background-color: #1f2439 !important;';}?>">
         <div class="container align-items-center">
             <a class="navbar-brand" href="../">
-                <img class="logosvg" src="./asset/id/xentowordmark.svg" alt="Xento" height="75px"/>
+                <img class="logosvg" src="./asset/id/xentowordmark.png" alt="Xento" height="75px"/>
                 
             </a>
             <ul class="navbar-nav d-flex justify-content-end logo-nav">
@@ -29,7 +29,7 @@
 <div class="noSidePadding d-block d-sm-block d-md-none d-lg-none d-xl-none">
     <nav class="navbar navbar-expand-sm bg-nav fixed-top navbar-light nav-padding">
         <a class="navbar-brand" href="../">
-            <img src="./asset/id/xentowordmark.svg" alt="Xento" height="50px"/>
+            <img src="./asset/id/xentowordmark.png" alt="Xento" height="50px"/>
         </a>
         <button class="navbar-toggle justify-self-end" type="button" onclick="openNav()">
             &#9776;
