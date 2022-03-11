@@ -91,19 +91,6 @@
     }
 }
 
-/*Wordmark SVG*/
-.cls-1, .cls-2 {
-    font-size: 226.458px;
-    fill: #fff;
-    text-anchor: middle;
-}
-.cls-1 {
-    font-family: Feltro;
-}
-.cls-2 {
-    font-family: "Proxima Nova";
-}
-
 /* Content */
 body{
     background-color: #fff;
