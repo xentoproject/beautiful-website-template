@@ -32,6 +32,7 @@
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:image" SameSite="Strict" content="https://xento.xyz/asset/og/homeog.png" />
         <meta property="twitter:site" content="Xento" />
+        <meta name="theme-color" content="#1f2439">
 
         <title>Xento</title>
         <meta name="description" content="Learn to code with the greatest guide in the game. Try Xento today!">
