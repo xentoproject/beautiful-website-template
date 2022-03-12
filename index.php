@@ -26,11 +26,11 @@
         <!-- Open Graph tags -->
         <meta property="og:title" content="Xento"/>
         <meta property="og:description" content="Learn to code with the greatest guide in the game. Try Xento today!"/>
-        <meta property="og:image" SameSite="Strict" content="https://xento.xyz/asset/homeog.png"/>
+        <meta property="og:image" SameSite="Strict" content="https://xento.xyz/asset/og/homeog.png"/>
         <meta property="og:site_name" content="Xento"/>
         <meta name="og:url" SameSite="Strict" content="https://xento.xyz/">
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:image" SameSite="Strict" content="https://xento.xyz/asset/homeog.png" />
+        <meta property="twitter:image" SameSite="Strict" content="https://xento.xyz/asset/og/homeog.png" />
         <meta property="twitter:site" content="Xento" />
 
         <title>Xento</title>
@@ -63,3 +63,4 @@
         <!-- JS -->
         <script src="./js/script.js"></script>
     </body>
+</html>
