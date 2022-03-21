@@ -11,14 +11,16 @@ function navScroll() {
 }*/
 
 // navbar scroll blur
-var navbar = document.getElementbyClassName('bg-nav');
 
 window.onscroll = function() {stickyMenu()};
 
 function stickyMenu() {
+  let navbar = document.getElementsByClassName('bg-nav');
   if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+      let navbar = document.getElementsByClassName('bg-nav');
       navbar.classList.add("sticky-blur");
   } else {
+      let navbar = document.getElementsByClassName('bg-nav');
       navbar.classList.remove("sticky-blur");
   }
 }
