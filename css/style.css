@@ -2,8 +2,8 @@
 /*Navigation*/
 .bg-nav{
     background-color: rgba(33, 58, 162, 0.8);
-    -webkit-backdrop-filter: blur(20px) !important;
-    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
 }
 .navbar-brand{
     font-family: rig-solid-bold-fill,sans-serif;
@@ -49,13 +49,13 @@
     padding-right: 0;
 }
 .overlay {
-    height: 100%;
+    height: 100vh !important;
     width: 0;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    background: #000;
+    background: linear-gradient(180deg, rgba(33, 58, 162, 1) 25%, rgba(31 ,36 ,57 ,.6) 120%), url('../asset/image/xento-one.webp') top;
     overflow-x: hidden;
     transition: 0.5s;
     text-transform: uppercase;
