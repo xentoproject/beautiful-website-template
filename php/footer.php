@@ -6,23 +6,24 @@
           <small class="d-block mt-3 mb-3">© Xento Project | 2022</small>
         </div>
         <div class="col-12 col-md first-footer-group">
-          <h5>Quick Links</h5>
+          <h5>Null</h5>
           <ul class="list-unstyled text-small">
-            <li class="footer-link-item"><a class="footer-link" href="https://autocode.com/signup?invite_code=zgtmhVNi4TyaJj74">Autocode</a></li>
-            <li class="footer-link-item"><a class="footer-link" href="https://github.com/xentoproject">Github</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
           </ul>
         </div>
         <div class="col-12 col-md">
           <h5>Null</h5>
           <ul class="list-unstyled text-small">
-            <li class="footer-link-item"><a class="footer-link" href="https://github.com/xentoproject">Null</a></li>
-
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
           </ul>
         </div>
         <div class="col-12 col-md">
           <h5>Null</h5>
           <ul class="list-unstyled text-small">
-            <li class="footer-link-item"><a class="footer-link" href="../">Null</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="">Null</a></li>
           </ul>
         </div>
         <div class="col-12 col-md">
