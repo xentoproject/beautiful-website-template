@@ -16,9 +16,9 @@ window.onscroll = function() {stickyMenu()};
 
 function stickyMenu() {
   if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-      document.getElementsByClassName("bg-nav").classList.add("sticky-blur");
+      document.getElementsByTagName("nav").classList.add("sticky-blur");
   } else {
-      document.getElementsByClassName("bg-nav").classList.remove("sticky-blur");
+      document.getElementsByTagName("nav").classList.remove("sticky-blur");
   }
 }
 
