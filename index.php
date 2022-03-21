@@ -34,7 +34,7 @@
         <meta property="twitter:site" content="Xento" />
         <meta name="theme-color" content="#1f2439">
 
-        <title>Xento</title>
+        <title>Learn to code | Xento</title>
         <meta name="description" content="Learn to code with the greatest guide in the game. Try Xento today!">
         <meta name="keywords" content="Code, Coding, Xento, Learn to code, Programming">
         <meta name="author" content="Matt Davison">
@@ -62,7 +62,8 @@
                 <div class="card-deck">
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">Learn code writing it.</h2>                           
+                            <h2 class="card-title">Learn code writing it.</h2>
+                            <p class="card-text">Learning to code has never been more simple than with Xento!</p>             
                         </div>
                     </div>
                     <div class="card">
