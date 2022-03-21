@@ -12,16 +12,6 @@ function navScroll() {
 
 // navbar scroll blur
 
-window.onscroll = function() {stickyMenu()};
-
-function stickyMenu() {
-  if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-      document.getElementsByTagName("nav").classList.add("sticky-blur");
-  } else {
-      document.getElementsByTagName("nav").classList.remove("sticky-blur");
-  }
-}
-
 //open mobile nav
 
 function openNav() {
