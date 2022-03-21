@@ -93,6 +93,17 @@
                             <img class="card-image" src="./asset/image/xento-three.webp">                           
                         </div>
                     </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <img class="card-image" src="./asset/image/xento-four.webp">                          
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Learn to collaborate</h2>
+                            <p class="card-text">Learn to collaborate using Autocode and Github to work on code simutaneously as a team.</p>             
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
