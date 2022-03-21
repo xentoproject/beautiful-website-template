@@ -63,7 +63,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h2 class="card-title">Learn code writing it.</h2>
-                            <p class="card-text">Learning to code has never been more simple than learning with Xento!</p>             
+                            <p class="card-text">Learning to code has never been more simple than learning with the power of the Xento code curriculum!</p>             
                         </div>
                     </div>
                     <div class="card">
