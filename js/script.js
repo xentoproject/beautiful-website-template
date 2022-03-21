@@ -15,13 +15,10 @@ function navScroll() {
 window.onscroll = function() {stickyMenu()};
 
 function stickyMenu() {
-  let navbar = document.getElementsByClassName('bg-nav');
   if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-      let navbar = document.getElementsByClassName('bg-nav');
-      navbar.classList.add("sticky-blur");
+      document.getElementsByClassName("bg-nav").classList.add("sticky-blur");
   } else {
-      let navbar = document.getElementsByClassName('bg-nav');
-      navbar.classList.remove("sticky-blur");
+      document.getElementsByClassName("bg-nav").classList.remove("sticky-blur");
   }
 }
 
