@@ -84,8 +84,8 @@
                     </div>
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">Learn code while writing it</h2>
-                            <p class="card-text">Learning to code has never been more simple than learning with the power of the Xento platform.</p>             
+                            <h2 class="card-title">Get the know-how</h2>
+                            <p class="card-text">Learn more than just the language basics, really get to know the elements of the language.</p>             
                         </div>
                     </div>
                     <div class="card">
