@@ -58,7 +58,20 @@
 
         <!-- main content -->
         <div class="container-fluid main-content">
-
+            <div class="container">
+                <div class="card-deck">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Learn code writing it.</h2>                           
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Learn code writing it.</h2>                           
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- JS -->
