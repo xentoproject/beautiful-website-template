@@ -50,7 +50,7 @@
                 <div class="row header-content my-auto d-flex">
                     <div class="my-auto">
                             <img class="header-image" src="./asset/id/xentowordmark.png">
-                        <h1 class="header-text">Learn to Code...</h1>
+                        <h1 class="header-text">Learn to Code</h1>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                 <div class="card-deck align-items-center">
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">Learn code writing it.</h2>
+                            <h2 class="card-title">Learn code while writing it</h2>
                             <p class="card-text">Learning to code has never been more simple than learning with the power of the Xento code curriculum!</p>             
                         </div>
                     </div>
