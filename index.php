@@ -59,7 +59,7 @@
         <!-- main content -->
         <div class="container-fluid main-content">
             <div class="container">
-                <div class="card-deck">
+                <div class="card-deck align-items-center">
                     <div class="card">
                         <div class="card-body">
                             <h2 class="card-title">Learn code writing it.</h2>
@@ -68,7 +68,7 @@
                     </div>
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">Learn code writing it.</h2>                           
+                            <img class="card-image" src="./asset/image/xento-one.webp"                           
                         </div>
                     </div>
                 </div>
