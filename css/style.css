@@ -2,8 +2,8 @@
 /*Navigation*/
 .bg-nav{
     background-color: transparent;
-    -webkit-backdrop-filter: blur(40px) !important;
-    backdrop-filter: blur(40px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    backdrop-filter: blur(20px) !important;
 }
 .navbar-brand{
     font-family: rig-solid-bold-fill,sans-serif;
