@@ -85,7 +85,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h2 class="card-title">Get the know-how</h2>
-                            <p class="card-text">Learn more than just the language basics, really get to know the elements of the language.</p>             
+                            <p class="card-text">Learn how to use code in real life situations with our autocode apps and snippets!</p>             
                         </div>
                     </div>
                     <div class="card">
