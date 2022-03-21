@@ -84,7 +84,7 @@
                     </div>
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title">Get the know-how</h2>
+                            <h2 class="card-title">Bring code to life</h2>
                             <p class="card-text">Learn how to use code in real life situations with our autocode apps and snippets!</p>             
                         </div>
                     </div>
