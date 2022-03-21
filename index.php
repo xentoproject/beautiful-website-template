@@ -107,6 +107,8 @@
                 </div>
             </div>
         </div>
+        <!-- Footer -->
+        <?php include ('./php/footer.php');?>
 
         <!-- JS -->
         <script src="./js/script.js"></script>
