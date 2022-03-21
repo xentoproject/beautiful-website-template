@@ -156,10 +156,12 @@ body{
 }
 /*Main Page Content*/
 .main-content{
-    margin-top: 10vh;
+    margin: 10vh auto;
 }
 .card{
+    min-width: 47%;
     border: none;
+    border-radius: 20px;
 }
 .card-title{
     font-family: proxima-nova, sans-serif;
@@ -171,4 +173,8 @@ body{
     font-weight: 400;
     font-style: normal;
     font-size: 1.3em;
+}
+.card-image{
+    max-width: 100%;
+    border-radius: 20px;
 }
