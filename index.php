@@ -36,7 +36,7 @@
 
         <title>Learn to code | Xento</title>
         <meta name="description" content="Learn to code with the greatest guide in the game. Try Xento today!">
-        <meta name="keywords" content="Code, Coding, Xento, Learn to code, Programming">
+        <meta name="keywords" content="Code, Coding, Xento, Learn to code, Programming, Technology, Computing">
         <meta name="author" content="Matt Davison">
 
     </head>
