@@ -37,10 +37,6 @@
 .navbar{
     padding: 1.25rem 1rem !important;
 }
-.sticky-blur{
-    -webkit-backdrop-filter: blur(150px) !important;
-    backdrop-filter: blur(150px) !important;
-}
 .navbar-toggle{
     border-width: 0;
     color: #fff;
