@@ -1,4 +1,4 @@
-//open mobile nav
+// open/close mobile navigation
 
 function openNav() {
   document.getElementById("myNav").style.width = "100%";
