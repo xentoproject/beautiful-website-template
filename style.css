@@ -1,0 +1,224 @@
+@import url(https://use.typekit.net/del7grk.css);
+/*Navigation*/
+.bg-nav{
+    background-color: rgba(33, 58, 162, 0.8);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+}
+.navbar-brand{
+    font-family: rig-solid-bold-fill,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2.8rem;
+    padding-top: 0;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding: 0.3em auto !important;
+}
+.nav-link{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #c5c5c5;
+    text-transform: uppercase;
+    margin: 0em 0.5em;
+}
+.nav-link:hover{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    text-transform: uppercase;
+}
+.navbar{
+    padding: 1.25rem 1rem !important;
+}
+.navbar-toggle{
+    border-width: 0;
+    color: #fff;
+    font-size: 1.5em;
+    background: none;
+    padding-right: 0;
+}
+.overlay {
+    height: 100vh !important;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgba(33, 58, 162, 1) 25%, rgba(31 ,36 ,57 ,.6) 120%), url('../asset/image/xento-one.webp') top;
+    overflow-x: hidden;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
+.overlay-content {
+    font-weight: 600;
+    font-style: normal;
+    position: relative;
+    top: 20%;
+    width: 100%;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+}
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 2em;
+    color: #fff;
+    display: block;
+    transition: 0.3s;
+    text-transform: uppercase;
+}
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+    text-transform: uppercase;
+}
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+.closebtn:active{
+    text-decoration: none;
+}
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    text-transform: uppercase;
+    }
+}
+
+/* Content */
+body{
+    background-color: #fff;
+    max-width: 100vw;
+    max-width: 100%;
+}
+    /*Home Main*/
+.home-header{
+    min-height: 90vh;
+    max-width: 100vw;
+    background: rgb(31,36,57);
+    background: linear-gradient(180deg, rgba(33, 58, 162, 1) 25%, rgba(31 ,36 ,57 ,.6) 120%), url('../asset/image/homebackground.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: ellipse(175% 100% at 50% 0%);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden; 
+}
+@media (max-width: 567px){
+    .home-header{
+        clip-path: ellipse(175% 100% at 50% 0%);
+        max-width: 100%;
+    }
+}
+.header-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-text{
+    color: #fff;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.75em; 
+    padding-top: 0.5em !important;
+}
+.header-image{
+    width: 350px !important;
+}
+@media (max-width: 567px){
+    .header-image{
+        max-width: 300px;
+    }
+}
+@media (max-width: 350px){
+    .header-image{
+        max-width: 200px;
+    }
+}
+/*Main Page Content*/
+.main-content{
+    margin: 10vh auto;
+}
+.card{
+    min-width: 47%;
+    border: none;
+    border-radius: 20px;
+}
+.card-title{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.card-text{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3em;
+}
+.card-image{
+    max-width: 100%;
+    border-radius: 20px;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    filter: linear-gradient(180deg, rgba(33, 58, 162, 1) 25%, rgba(31 ,36 ,57 ,.6) 120%);
+}
+
+/*Footer*/
+footer{
+    background: rgb(33, 58, 162);
+    color: #fff;
+    align-self: end !important;
+}
+.footer-link{
+    color: #fff;
+    margin-bottom: 5px;
+}
+.footer-link-item{
+    margin-bottom: 4px;
+}
+.footer-link:hover{
+    color: #fff;
+}
+@media (max-width: 576px) { 
+    .first-footer-group{
+        margin-top: 1em;
+    } 
+    footer h5{
+        font-size: 1.7em;
+    }
+}
+footer h5{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+footer{
+    height: 100%;
+}
+.footer-social-icon{
+    fill: #c5c5c5;
+    width: 1.3em;
+    margin: 1em 0.5em;
+}
+.footer-social-icon:hover{
+    fill: #fff;
+    width: 1.3em;
+    margin: 1em 0.5em;
+}
